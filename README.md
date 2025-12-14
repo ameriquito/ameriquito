@@ -2,10 +2,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRwZ2R4em0zdDNlMjBxZ2MwY3dyMzBiem9wZGZidHY1ajVwYmNiNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AUlKe48NxwdzRBaGTC/giphy.gif"
-       width="100%"
-       height="250"
-       style="border-radius: 10px;" />
+       style="width: 80%; max-width: 800px; height: auto; border-radius: 10px;" />
 </p>
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am%C3%A9rico-muj-gonz%C3%A1lez/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CeRLBrM1m/)
