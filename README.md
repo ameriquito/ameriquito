@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1CeRLBrM1m/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aricgonzalez2013@gmail.com)
 
-Soy analista de datos enfocado en la gestión de activos. Me apasiona convertir datos en información clara, accionable y útil para la toma de decisiones.  
+Actualmente estoy estudiando y trabajando con datos enfocado en la gestión de activos. Me apasiona convertir datos en información clara, accionable y útil para la toma de decisiones.  
 Aquí comparto mis proyectos, aprendizajes y herramientas que uso en mi día a día. 🏭📊
 
 ## Tecnologías 💻
